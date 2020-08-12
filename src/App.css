@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+}
+
+.App {
+    font-family: "poppins";
+  background-color: #111;
+  color: white;
+}
